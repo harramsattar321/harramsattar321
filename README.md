@@ -25,16 +25,16 @@
 
 | | |
 |---|---|
-| 🎯 **Title** | Full Stack Developer \| AI Developer |
-| 💻 **Languages** | JavaScript, Python, C++, SQL |
-| 🎨 **Frontend** | Angular |
-| ⚙️ **Backend** | Node.js, MongoDB, REST APIs |
-| ☁️ **Cloud** | Microsoft Azure, CI/CD |
-| 🤖 **AI & ML** | Machine Learning, LLMs, AI Agents, RAG, NLP, Prompt Engineering |
-| 📐 **Foundations** | Data Structures & Algorithms, OOP, Systems Design |
-| 🚀 **Launched Projects** | SaaSInterface |
-| 📌 **Status** | Building AI-powered full stack systems |
-| 🎯 **Open To** | Full-Time Roles, AI/ML Engineering, Full Stack Development, Collaborations |
+|  **Title** | Full Stack Developer \| AI Developer |
+|  **Languages** | JavaScript, Python, C++, SQL |
+|  **Frontend** | Angular |
+|  **Backend** | Node.js, MongoDB, REST APIs |
+|  **Cloud** | Microsoft Azure, CI/CD |
+|  **AI & ML** | Machine Learning, LLMs, AI Agents, RAG, NLP, Prompt Engineering |
+|  **Foundations** | Data Structures & Algorithms, OOP, Systems Design |
+|  **Launched Projects** | SaaSInterface |
+|  **Status** | Building AI-powered full stack systems |
+|  **Open To** | Full-Time Roles, AI/ML Engineering, Full Stack Development, Collaborations |
 
 </div>
 
@@ -42,13 +42,13 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 [SaaSInterface](https://github.com/harramsattar321/SaaSInterface)
+###  [SaaSInterface](https://github.com/harramsattar321/SaaSInterface)
 > AI-powered Virtual Patient Support System — a multi-application healthcare platform with Angular frontends, Node.js & Flask backends, and Groq-powered emergency detection, built as a Final Year Project in collaboration with Speridian Technologies.
 
 <div align="center">
   <img src="assets/saas-interface-logo.png" alt="SaaSInterface Logo" width="220"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harramsattar321&repo=SaaSInterface&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="SaaSInterface Repo Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harramsattar321&repo=SaaSInterface&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" />
 </div>
 
 | Layer      | Technology                          |
@@ -104,11 +104,6 @@
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harramsattar321&theme=nord&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
-</div>
 
 ### 📈 Contribution Activity
 
