@@ -48,7 +48,6 @@
 <div align="center">
   <img src="assets/saas-interface-logo.png" alt="SaaSInterface Logo" width="220"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harramsattar321&repo=SaaSInterface&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" />
 </div>
 
 | Layer      | Technology                          |
@@ -96,9 +95,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harramsattar321&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harramsattar321&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
 
 <img src="https://streak-stats.demolab.com?user=harramsattar321&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
 
