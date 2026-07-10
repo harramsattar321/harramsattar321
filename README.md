@@ -21,30 +21,22 @@
 
 ## 🧠 Who I Am
 
-```typescript
-const harramSattar = {
-  title: "Full Stack Developer | AI Developer",
-  stack: {
-    languages: ["JavaScript", "Python", "C++", "SQL"],
-    frontend: ["Angular"],
-    backend: ["Node.js", "MongoDB", "REST APIs"],
-    cloud: ["Microsoft Azure", "CI/CD"],
-    ai: [
-      "Machine Learning",
-      "Large Language Models (LLMs)",
-      "AI Agents",
-      "Retrieval-Augmented Generation (RAG)",
-      "Natural Language Processing (NLP)",
-      "Prompt Engineering"
-    ],
-    foundations: ["Data Structures & Algorithms", "OOP", "Systems Design"]
-  },
-  launchedProjects: ["SaaSInterface"],
-  certifications: [], // add yours here anytime
-  status: "Building AI-powered full stack systems",
-  openTo: ["Full-Time Roles", "AI/ML Engineering", "Full Stack Development", "Collaborations"]
-} as const;
-```
+<div align="center">
+
+| | |
+|---|---|
+| 🎯 **Title** | Full Stack Developer \| AI Developer |
+| 💻 **Languages** | JavaScript, Python, C++, SQL |
+| 🎨 **Frontend** | Angular |
+| ⚙️ **Backend** | Node.js, MongoDB, REST APIs |
+| ☁️ **Cloud** | Microsoft Azure, CI/CD |
+| 🤖 **AI & ML** | Machine Learning, LLMs, AI Agents, RAG, NLP, Prompt Engineering |
+| 📐 **Foundations** | Data Structures & Algorithms, OOP, Systems Design |
+| 🚀 **Launched Projects** | SaaSInterface |
+| 📌 **Status** | Building AI-powered full stack systems |
+| 🎯 **Open To** | Full-Time Roles, AI/ML Engineering, Full Stack Development, Collaborations |
+
+</div>
 
 ---
 
@@ -54,6 +46,8 @@ const harramSattar = {
 > AI-powered Virtual Patient Support System — a multi-application healthcare platform with Angular frontends, Node.js & Flask backends, and Groq-powered emergency detection, built as a Final Year Project in collaboration with Speridian Technologies.
 
 <div align="center">
+  <img src="assets/saas-interface-logo.png" alt="SaaSInterface Logo" width="220"/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=harramsattar321&repo=SaaSInterface&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="SaaSInterface Repo Card"/>
 </div>
 
@@ -67,8 +61,6 @@ const harramSattar = {
 | DevOps     | CI/CD, Git                           |
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harramsattar321/SaaSInterface)
-
-> ⚠️ Live deployment is currently offline (Azure trial credits exhausted) — code and full implementation are available in the repo.
 
 ---
 
