@@ -27,7 +27,7 @@
 |---|---|
 |  **Title** | Full Stack Developer \| AI Developer |
 |  **Languages** | JavaScript, Python, C++, SQL |
-|  **Frontend** | Angular |
+|  **Frontend** | Angular, React |
 |  **Backend** | Node.js, MongoDB, REST APIs |
 |  **Cloud** | Microsoft Azure, CI/CD |
 |  **AI & ML** | Machine Learning, LLMs, AI Agents, RAG, NLP, Prompt Engineering |
